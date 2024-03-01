@@ -2,11 +2,11 @@ This project is made of multiple diagrams (made in Enterprise Architect). Diagra
 
 Detailed project information can be found at .docx documentation.
 
-System Description
+<h2>System Description</h2>
 
 This internet marketplace represents an innovative platform connecting users, sellers, and administrators to facilitate the process of buying and selling various products. The system utilizes modern technologies and tools to ensure safe and smooth interaction among all involved parties.
 
-Functions and Processes:
+<h2>Functions and Processes:</h2>
 1. Registration and Account Management:
    - Users have the ability to easily register, fill out a registration form, and verify their email address.
    - Upon successful registration, users can manage their accounts, change passwords, and track their transaction history.
@@ -27,7 +27,7 @@ Functions and Processes:
 8. Security Services:
    - Protection of personal data and financial information is ensured through security measures and data encryption.
 
-Functional Requirements:
+<h2>Functional Requirements:</h2>
 1. User Registration:
    - The system will allow users to create a new account.
    - It will provide a form for entering necessary information.
@@ -44,7 +44,7 @@ Functional Requirements:
    - Various payment methods will be integrated into the system.
    - Secure payment processing will be ensured.
 
-Non-functional Requirements:
+<h2>Non-functional Requirements:</h2>
 1. Security:
    - Protection of users' personal and financial data.
    - Ensuring the system is resilient to potential cyber threats.
