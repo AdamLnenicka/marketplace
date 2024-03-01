@@ -1,4 +1,4 @@
-This project is made of multiple diagrams (made in Enterprise Architect). Diagrams would be used in later implementation.
+This project is made of multiple diagrams. For example use case, scenario, sequence, activity, deployment, catalogue of services, bpmn, class, technology diagrams (made in Enterprise Architect). Diagrams would be used in later implementation.
 
 Detailed project information can be found at .docx documentation.
 
