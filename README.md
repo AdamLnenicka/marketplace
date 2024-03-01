@@ -1,3 +1,5 @@
+This project is made of multiple diagrams (made in Enterprise Architect), wchich would be used in later implementation.
+
 System Description
 
 This internet marketplace represents an innovative platform connecting users, sellers, and administrators to facilitate the process of buying and selling various products. The system utilizes modern technologies and tools to ensure safe and smooth interaction among all involved parties.
